@@ -6,3 +6,4 @@ is_even = lambda x: x % 2 == 0
 
 result = list(map(square, filter(is_even, data)))
 print("Squared even numbers:", result)
+#this is a comment
